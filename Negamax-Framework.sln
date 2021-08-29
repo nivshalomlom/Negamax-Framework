@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negamax-Framework", "Negamax-Framework.csproj", "{AE55231D-698B-4423-9BB3-55ACEB71357A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE55231D-698B-4423-9BB3-55ACEB71357A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE55231D-698B-4423-9BB3-55ACEB71357A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE55231D-698B-4423-9BB3-55ACEB71357A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE55231D-698B-4423-9BB3-55ACEB71357A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED465D3E-BAD2-42B1-8F98-A41F34506532}
+	EndGlobalSection
+EndGlobal
